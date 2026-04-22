@@ -1,0 +1,6 @@
+{
+  "name": "Study Goal Checker (공부 목표 체커)",
+  "description": "A simple study goal management app with persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
