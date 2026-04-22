@@ -1,20 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌤️ Ứng dụng Quản lý Mục tiêu Học tập 📝
 
-# Run and deploy your AI Studio app
+Ứng dụng web đơn giản giúp người dùng lưu trữ, theo dõi và kiểm tra tiến độ hoàn thành các mục tiêu học tập cá nhân hàng ngày.
 
-This contains everything you need to run your app locally.
+## 📸 Ảnh màn hình
+![Giao diện ứng dụng](https://via.placeholder.com/800x400?text=Screenshot+Project+Learning+Goals)
+*(Lưu ý: Thay thế đường link này bằng đường dẫn ảnh thực tế của bạn sau khi chụp màn hình)*
 
-View your app in AI Studio: https://ai.studio/apps/8675b6fc-f8e8-49c4-bdcd-432b0215744a
+## ✨ Tính năng chính
+- **Thêm mục tiêu:** Cho phép nhập và lưu các mục tiêu học tập mới vào danh sách.
+- **Kiểm tra tiến độ:** Đánh dấu các mục tiêu đã hoàn thành bằng checkbox.
+- **Xóa mục tiêu:** Loại bỏ các mục tiêu không còn cần thiết hoặc đã xong.
+- **Lưu trữ dữ liệu:** Tự động lưu danh sách vào trình duyệt (Local Storage) để không bị mất khi tải lại trang.
 
-## Run Locally
+## 🛠️ Công nghệ sử dụng
+- **HTML5:** Cấu trúc khung giao diện người dùng.
+- **CSS3:** Thiết kế phong cách, màu sắc và bố cục (Responsive Design).
+- **JavaScript (ES6):** Xử lý logic thêm, xóa, kiểm tra mục tiêu và lưu trữ dữ liệu.
 
-**Prerequisites:**  Node.js
+## 🚀 Hướng dẫn sử dụng
+1. Tải tệp HTML về máy tính của bạn.
+2. Mở tệp bằng trình duyệt web bất kỳ (Chrome, Edge, Firefox...).
+3. Nhập mục tiêu học tập vào ô văn bản và nhấn nút "Lưu" hoặc "Thêm".
+4. Tích vào ô bên cạnh mục tiêu khi bạn đã hoàn thành.
+5. Nhấn biểu tượng thùng rác hoặc nút "Xóa" để dọn dẹp danh sách.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 👤 Thông tin sinh viên
+- **Họ và tên:** Ngô Chi Du
+- **Mã sinh viên:** 2585003...
+- **Trường/Khoa:** Đại học Pai Chai, Khoa Tự chọn toàn cầu
