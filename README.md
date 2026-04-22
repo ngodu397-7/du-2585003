@@ -1,3 +1,4 @@
+<img width="1372" height="744" alt="스크린샷 2026-04-22 121707" src="https://github.com/user-attachments/assets/8638b63a-c87a-4329-9bff-41dd921c68ff" />
 # 🌤️ Ứng dụng Quản lý Mục tiêu Học tập 📝
 
 Ứng dụng web đơn giản giúp người dùng lưu trữ, theo dõi và kiểm tra tiến độ hoàn thành các mục tiêu học tập cá nhân hàng ngày.
